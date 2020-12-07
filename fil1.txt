@@ -3,3 +3,4 @@ prueba 2
 prueba 3
 cambio 1 en rama fix1
 cambio 4 en rama master
+cambio 2 en rama fix2
